@@ -17,7 +17,7 @@
 
 </br>
 
-<p align=center>🌐The online site: <a href="" target="_blank">🍕 FAST REACT PIZZA CO.</a></p>
+<p align=center>🌐The online site: <a href="https://tb-fast-react-pizza.netlify.app" target="_blank">🍕 FAST REACT PIZZA CO.</a></p>
 
 </br>
 
